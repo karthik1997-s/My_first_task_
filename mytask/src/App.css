@@ -1,0 +1,59 @@
+.App {
+  text-align: left;
+}
+
+.App-logo {
+  height: 40vmin;
+  color: #9fefa0d4;
+  pointer-events: none;
+}
+
+.login-form-forgot{
+
+  color: #4caf50;
+  position: absolute;
+  
+  top: 189px;
+  right: 2px;
+}
+.image{
+  width: 100px;
+  height: 40px ;
+  background-size:contain;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+}
+.button{
+  background-color: #4caf50;
+}
+.login-form{
+  position: absolute;
+  right: 110px;
+  max-width: 700px;
+  width: 420px;
+}
+ 
+.login-form-button {
+  width: 100%;
+  background-color: #4caf50;
+}
+.icon-span{
+  
+  position: absolute;
+  right: 10px;
+  top: 131px;
+  height: 100%;
+  display: inherit;
+  align-items: center;
+}
+.text{
+ 
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: '600px';
+ 
+  color: black;
+  
+  
+}
